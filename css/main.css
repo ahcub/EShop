@@ -727,10 +727,12 @@ h2.title:before{
     font-size: 14px;
     text-decoration: none;
     text-transform: uppercase;
+	float: right;
 }
 
 .panel-group .panel-heading + .panel-collapse .panel-body {
     border-top: 0 none;
+	 float: right;
 }
 
 .category-products .badge {
@@ -749,7 +751,7 @@ h2.title:before{
 }
 
 .panel-body ul{
-    padding-center: 20px;
+    padding-left: 20px;
 }
 
 

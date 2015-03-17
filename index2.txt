@@ -184,15 +184,15 @@
 								<div class="single-products">
 										<div class="productinfo text-center">
 											<img src="images/home/product1.jpg" alt="" />
-											 
+											<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 											<p>10A</p>
-											<a href="product-details-10a.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left" ></i>לפרטים</a>
+											<a href="product-details-10a.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 										<div class="product-overlay">
 											<div class="overlay-content">
-												 
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>10A</p>
-												<a href="product-details-10a.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details-10a.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 										</div>
 								</div>
@@ -210,15 +210,15 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/home/product3.jpg" alt="" />
-										
+										<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 										<p>TADIRAN 10I</p>
-										<a href="product-details-10I.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+										<a href="product-details-10I.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											
+											<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 											<p>TADIRAN 10I</p>
-											<a href="product-details-10I.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left" style="bold"></i> לפרטים</a>
+											<a href="product-details-10I.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 								</div>
@@ -236,16 +236,16 @@
 								<div class="single-products">
 									<div class="productinfo text-center">
 										<img src="images/home/product5.jpg" alt="" />
-										 
+										<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 										<p>תדיראן מיני מרכזי</p>
-										<a href="product-details-W47.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+										<a href="product-details-W47.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											 
+											<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 											<p>תדיראן Wind 47/3P</p>
 											<p> 38,000 BTU</p>
-											<a href="product-details-W47.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+											<a href="product-details-W47.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 									<img src="images/home/sale.png" class="new" alt="" />
@@ -279,9 +279,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												  
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a> </h2>
 												<p>TOP 10</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -292,9 +292,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												  
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a> </h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -305,9 +305,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												  
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a> </h2>
 												<p>TADIRAN SPACE 35/3R</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -318,9 +318,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												  
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a> </h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details-15A.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -334,9 +334,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												 
-												<p>TADIRAN 15A תדיראן עילי</p>
-												<a href="product-details-15A.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
+												<p>תדיראן INVERTER 120A</p>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -347,9 +347,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												 
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -360,9 +360,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												  
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a> </h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -373,9 +373,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												
+												<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a> </h2>
 												<p>TOP 10</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -389,9 +389,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												 
-												<p>10 I</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
+												<p>Easy Polo Black Edition</p>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -402,9 +402,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												 
-												<p>TADIRAN 15A תדיראן עילי</p>
-												<a href="product-details-15A.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
+												<p>תדיראן INVERTER 120A</p>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -415,9 +415,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												
+												<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>TOP 10</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -428,9 +428,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												 
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -444,9 +444,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												
+												<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>top 10</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -457,9 +457,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												 
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -470,9 +470,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												 
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -483,9 +483,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												
-												<p>TADIRAN 15A תדיראן עילי</p>
-												<a href="product-details-15A.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<h2>3500 &#8362;</h2>
+												<p>תדיראן INVERTER 120A</p>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -499,9 +499,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery2.jpg" alt="" />
-												
-												<p>TADIRAN 21A תדיראן עילי</p>
-												<a href="product-details-t500.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<h2>התקשרו</h2>
+												<p>מצנן תדיראן</p>
+												<a href="product-details-t500.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -512,9 +512,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery4.jpg" alt="" />
-												
-												<p>TADIRAN 15A תדיראן עילי</p>
-												<a href="product-details-15A.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<h2> &#8362;3600</h2>
+												<p>Easy Polo Black Edition</p>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -525,9 +525,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery3.jpg" alt="" />
-												
+												<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>Easy Polo Black Edition</p>
-												<a href="product-details-10.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -538,9 +538,9 @@
 										<div class="single-products">
 											<div class="productinfo text-center">
 												<img src="images/home/gallery1.jpg" alt="" />
-												 
+												<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 												<p>TOP 10</p>
-												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+												<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 											</div>
 											
 										</div>
@@ -561,9 +561,9 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend1.jpg" alt="" />
-													
+													<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 													<p>Tadiran GTM 18H </p>
-													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
 											</div>
@@ -574,9 +574,9 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend2.jpg" alt="" />
-													 
+													<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 													<p>Tadiran GTM 18H </p>
-													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
 											</div>
@@ -587,9 +587,9 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend3.jpg" alt="" />
-													
+													<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 													<p>Tadiran TQL S20H</p>
-													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
 											</div>
@@ -602,9 +602,9 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend1.jpg" alt="" />
-													
+													<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 													<p>Tadiran GTM 18H </p>
-													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
 											</div>
@@ -615,9 +615,9 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend2.jpg" alt="" />
-													
+													<h2> <a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 													<p>Tadiran GTM 18H </p>
-													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
 											</div>
@@ -628,9 +628,9 @@
 											<div class="single-products">
 												<div class="productinfo text-center">
 													<img src="images/home/recommend3.jpg" alt="" />
-													 
+													<h2><a><i class="fa fa-phone"></i> 052 235 33 44</a></h2>
 													<p>Easy Polo Black Edition</p>
-													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-angle-left"></i>לפרטים</a>
+													<a href="product-details.html" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 												</div>
 												
 											</div>
@@ -650,7 +650,7 @@
 				</div>
                 <div class="col-sm-3">
                     <div class="left-sidebar">
-                           <h2>Category</h2>
+                        <h2>Category</h2>
                         <div class="panel-group category-products" id="accordian"><!--category-productsr-->
                             <div class="panel panel-default">
                                 <div class="panel-heading">
@@ -679,18 +679,18 @@
                            
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="SHOP.html">  <span class="badge pull-right">מקררים</span></a></h4>
+                                    <h4 class="panel-title"><a href="product-details.html">  <span class="badge pull-right">מקררים</span></a></h4>
                                 </div>
                             </div>
                           
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                   <h4 class="panel-title"><a href="404.html">  <span class="badge pull-right">שלטים</span></a></h4>
+                                   <h4 class="panel-title"><a href="product-details.html">  <span class="badge pull-right">שלטים</span></a></h4>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <h4 class="panel-title"><a href="404.html">  <span class="badge pull-right">ציוד נוסף</span></a></h4>
+                                    <h4 class="panel-title"><a href="cart.html">  <span class="badge pull-right">ציוד נוסף</span></a></h4>
                                 </div>
                             </div>
                            
@@ -700,10 +700,10 @@
                             <h2>מותגים</h2>
                             <div class="brands-name">
                                 <ul class="nav nav-pills nav-stacked">
-                                    <li><a href="SHOP.html"> <span class="pull-left">(50)</span><span class="pull-right">TADIRAN</span></a></li><br>
+                                    <li><a href="product-details.html"> <span class="pull-left">(50)</span><span class="pull-right">TADIRAN</span></a></li><br>
                                    
-                                    <li><a href="SHOP.html"> <span class="pull-left">(32)</span><span class="pull-right">Amcor</span></a></li><br>
-                                    <li><a href="SHOP.html"> <span class="pull-left">(3)</span><span class="pull-right">Bloomberg</span></a></li></br>
+                                    <li><a href="product-details.html"> <span class="pull-left">(32)</span><span class="pull-right">Amcor</span></a></li><br>
+                                    <li><a href="product-details.html"> <span class="pull-left">(3)</span><span class="pull-right">Bloomberg</span></a></li></br>
                                  
                                 </ul>
                             </div>
@@ -717,8 +717,8 @@
                             </div>
                         </div><!--/price-range-->
 
-                        <div class="shipping text-center"  STYLE="background-color: white"><!--shipping-->
-                            <img src="images/home/shipping1.jpg" alt="" />
+                        <div class="shipping text-center"><!--shipping-->
+                            <img src="images/home/shipping.jpg" alt="" />
                         </div><!--/shipping-->
 
                     </div>
